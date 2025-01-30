@@ -16,9 +16,7 @@ body{
     height: 2px;
     background-color: #000;
 }
-.right-column{
-    padding:10px;
-}
+
 .keffa.active .keffa-bar:nth-child(1)
 {
 transform: translateY(8px) rotate(45deg);
